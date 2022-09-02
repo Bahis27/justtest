@@ -7,7 +7,7 @@ metadata:
     spec:
         selector:
             matchLabels:
-            project: kgb
+                project: kgb
         template:
             metadata:
                 labels:
